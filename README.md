@@ -7,3 +7,5 @@ This command-line application is used to manage a company's employee database. W
 ## Screenshot
 
 ## Video Walkthrough Link
+
+https://watch.screencastify.com/v/vSTIpyqo8C30GCdSVVyM
