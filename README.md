@@ -6,4 +6,6 @@ This command-line application is used to manage a company's employee database. W
 
 ## Screenshot
 
+![emploeetrackerss](https://user-images.githubusercontent.com/111789697/205502802-de9d1741-8710-429c-9511-a0ab60ebdf30.png)
+
 ## Video Walkthrough Link
